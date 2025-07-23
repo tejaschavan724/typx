@@ -1,7 +1,6 @@
 # ⚡ Typx — Lightning Fast Typing Test
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge)](https://typx.vercel.app)
-[![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
 > A minimal and modern typing test app designed for speed demons and keyboard lovers. Built with Vue, powered by love ❤️.
 
